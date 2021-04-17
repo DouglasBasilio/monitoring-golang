@@ -1,0 +1,12 @@
+05/04/2021 22:35:00 - https://olhardigital.com.br - online: true
+05/04/2021 22:35:01 - https://random-status-code.herokuapp.com/ - online: false
+05/04/2021 22:35:02 - https://play.golang.org - online: true
+05/04/2021 22:35:05 - https://canaltech.com.br - online: true
+05/04/2021 22:35:10 - https://olhardigital.com.br - online: true
+05/04/2021 22:35:11 - https://random-status-code.herokuapp.com/ - online: true
+05/04/2021 22:35:12 - https://play.golang.org - online: true
+05/04/2021 22:35:12 - https://canaltech.com.br - online: true
+05/04/2021 22:35:17 - https://olhardigital.com.br - online: true
+05/04/2021 22:35:17 - https://random-status-code.herokuapp.com/ - online: true
+05/04/2021 22:35:18 - https://play.golang.org - online: true
+05/04/2021 22:35:18 - https://canaltech.com.br - online: true
